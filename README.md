@@ -13,3 +13,7 @@
 	-Ver landing page  [Ver landing](https://www.google.com)
 -Como ganar
 -Otros
+
+-Mostrar codigo
+
+<hola>
