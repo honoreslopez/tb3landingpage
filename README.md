@@ -10,5 +10,6 @@
 	-Como subir crear
 	-Como llorar
 	-Como activar
+	-Ver landing page  [Ver landing](https://www.google.com)
 -Como ganar
 -Otros
